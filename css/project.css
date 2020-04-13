@@ -1,0 +1,27 @@
+header{
+	background-color:#e8d8c6f2; /*beige*/
+	text-align: center;}
+h1{
+	font-family: candara, calibri;
+	color:#4b5e2e; /*green*/ 
+	font-size: 200%;}
+
+nav{
+	font-family: candara, calibri; 
+	color:red;
+	text-align: center;}
+
+h2{
+	font-family: candara, calibri;
+	color:red;
+	font-size: 95%;
+	background-color:#e8d8c6f2; /*beige*/}
+
+details{
+	font-style: italic;}
+
+summary{
+	font-style: normal;
+	color: red;}
+
+footer{text-align: center;}
